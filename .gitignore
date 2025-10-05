@@ -41,7 +41,3 @@ coverage.xml
 *.log
 *.txt
 
-# OS-specific files
-.DS_Store
-Thumbs.db
-
